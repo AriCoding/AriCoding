@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AriCoding
+- 👀 I’m interested in coding & discord
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me https://discord.gg/ceR6wrCcYj
